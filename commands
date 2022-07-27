@@ -1,1 +1,3 @@
+#bound network device
 
+net use A: \\path /persistent:yes
